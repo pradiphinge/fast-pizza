@@ -14,3 +14,5 @@ Currently, two official plugins are available:
 - [09/Apr/2024][Project Cleanup] Removed css and other unnecessary files 
     - Pradipkumar Hinge
 ----    
+- [09/Apr/2024][Folder structure and sass setup]Updated folder structure and did sass setup
+----

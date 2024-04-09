@@ -1,8 +1,10 @@
+import "./styles/stylesheet.scss"
+
 function App() {
   
   return (
     <>
-      <div>
+      <div className="main">
        Fast Pizza
       </div>
       
