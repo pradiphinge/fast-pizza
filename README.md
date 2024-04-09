@@ -10,4 +10,7 @@ Currently, two official plugins are available:
 <!-- 9th April 2024 -->
 - [eslint setup]eslint vite-plugin-eslint eslint-config-react-app 
     - Pradipkumar Hinge
-
+----
+- [09/Apr/2024][Project Cleanup] Removed css and other unnecessary files 
+    - Pradipkumar Hinge
+----    
