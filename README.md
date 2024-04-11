@@ -16,3 +16,6 @@ Currently, two official plugins are available:
 ----    
 - [09/Apr/2024][Folder structure and sass setup]Updated folder structure and did sass setup
 ----
+- [11/Apr/2024][Sass setup and AppLayout with React Router] Added Sass setup and Applayout with latest react router 
+    - Pradipkumar Hinge
+----
